@@ -20,11 +20,15 @@ let dec = `*👨‍💻_QUEEN-KYLIE-MD_MAIN_COMMAND_👨‍💻*
 
 *🤖 Command - .menu*
 
-*💫 බොට්ගෙ විධාන මෙනුව ලබාගැනීම*
+*💫 බොට්ගෙ විධාන මෙනුව ලබා ගැනීම*
 
 *🤖 command - .ping*
 
 *👾බොට් සික්නල් පරික්ශාව*
+
+*🤖 Command - .repo*
+
+*👾බොට්ගෙ Github Link (Repo) එක ලබා ගැනීම.*
 
 *_______🔎_DOWNLOAD_COMMANDS💻_______*
 
@@ -70,7 +74,7 @@ let dec = `*👨‍💻_QUEEN-KYLIE-MD_MAIN_COMMAND_👨‍💻*
 
 *🤖 Command - .restart*
 
-*🚀 Bot restart කරිමට*
+*🚀 Bot restart කිරීමට*
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*
 `
