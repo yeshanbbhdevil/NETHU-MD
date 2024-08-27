@@ -4,9 +4,9 @@
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN+KYLIE+MD+WATSAPP+BOT)](https://git.io/typing-svg)
 
-📍ＮＥＷ ＶＥＳＩＯＮ ＣＯＭＩＮＧ ＺＯＮＥ...📍
+📍ＮＥＷ ＶＥＴＳＩＯＮ ＣＯＭＩＮＧ ＺＯＮＥ...📍
 
-📍𝗣𝗜𝗥𝗘 𝗖𝗢𝗗 QUEEN-KYLIE-MD📍
+📍𝗣𝗜𝗥 𝗖𝗢𝗗 QUEEN-KYLIE-MD📍
 
 <a href="https://pair-web-public.koyeb.app/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
