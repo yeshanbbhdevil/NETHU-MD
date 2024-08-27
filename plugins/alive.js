@@ -16,7 +16,7 @@ let des = `*🤭 Hi QUEEN-KYLIE-MD Is Online Now 🔰*
 
 *💫 Owner Number* -94718913389
 
-*💻✅ VIP BOT WATS APP QUEEN-KYLIE-MD*
+*💻✅ VIP BOT WAHTSAPP QUEEN-KYLIE-MD*
 
 *🪄𝕋𝕪𝕡𝕖 .𝕞𝕖𝕟𝕦 𝕋𝕠 𝔾𝕖𝕥 𝔹𝕠𝕥 𝕌𝕤𝕖𝕣 𝕄𝕖𝕟𝕦💗*
 
@@ -27,6 +27,8 @@ let des = `*🤭 Hi QUEEN-KYLIE-MD Is Online Now 🔰*
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
 🧚‍♀️◦ https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533
+
+*ᴛʜᴀɴᴋꜱ ꜰᴏʀ = ꜱʜᴀᴅᴏᴡ-ᴍᴅ💗🍃*
 
 *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
