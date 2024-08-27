@@ -14,15 +14,15 @@ let des = `*👋 HELLO I'm QUEEN-NETHU-MD I'm Alive Now*
 
 *🧑‍💻 Owner* - NETHMIKA KAUSHALYA(SL NETHUMAX)
 
-*📋 Owner Number* -94718913389
+*📋 Owner Number* - 94704227534
 
 *📃 Tipe .menu To Get menu list*
 
-*📍ℙ𝕃𝔼𝔸𝕊𝔼 𝕊𝕌𝔹𝕊ℂℝ𝕀𝔹𝔼 𝕄𝕐 𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃❤️‍🔥👇*
+*SUBSCRIBE MY YOUTUBE CHANNEL*
 
-🧚‍♀️◦ https://www.youtube.com/@Sahas_Tech
+🧚‍♀️◦ 
 
-*📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
+*JOIN MY WHATSAPP CHANNEL*
 
 🧚‍♀️◦ https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533
 
