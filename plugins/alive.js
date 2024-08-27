@@ -10,15 +10,13 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let des = `*🤭 Hi QUEEN-KYLIE-MD Is Online Now 🔰*
+let des = `*👋 HELLO I'm QUEEN-NETHU-MD I'm Alive Now*
 
-*🌈 Owner* - SAHAS NETHSARA(SAHAS TECH)
+*🧑‍💻 Owner* - NETHMIKA KAUSHALYA(SL NETHUMAX)
 
-*💫 Owner Number* -94718913389
+*📋 Owner Number* -94718913389
 
-*💻✅ VIP BOT WAHTSAPP QUEEN-KYLIE-MD*
-
-*🪄𝕋𝕪𝕡𝕖 .𝕞𝕖𝕟𝕦 𝕋𝕠 𝔾𝕖𝕥 𝔹𝕠𝕥 𝕌𝕤𝕖𝕣 𝕄𝕖𝕟𝕦💗*
+*📃 Tipe .menu To Get menu list*
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝕊𝕌𝔹𝕊ℂℝ𝕀𝔹𝔼 𝕄𝕐 𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃❤️‍🔥👇*
 
