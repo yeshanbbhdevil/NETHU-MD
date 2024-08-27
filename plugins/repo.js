@@ -10,7 +10,11 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*SIMPLE USER WHATS APP BOT QUEEN-NETHU-MD*
+let dec = `*𝙌𝙐𝙀𝙀𝙉-𝙉𝙀𝙏𝙃𝙐-𝙈𝘿 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣*
+
+*🤖 NAME*: QUEEN-NETHU-MD
+
+*🧑‍💻 OWNER*: NETHMIKA KAUSHALYA
 
 *➤ REPO LINK*
 
