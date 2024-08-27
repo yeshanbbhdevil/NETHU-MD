@@ -10,24 +10,13 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let des = `👋𝗛𝗶⚡ 𝗕𝗿𝗼,
+let des = `*🤭 Hi QUEEN-KYLIE-MD Is Online Now 🔰*
 
-*🪄 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰 💗*
+*🌈 Owner* - SAHAS NETHSARA(SAHAS TECH)
 
+*💫 Owner Number* -94718913389
 
-🧚‍♀️◦ *ɴᴀᴍᴇ ʙᴏᴛ* : Qᴜᴇᴇɴ ᴋʏʟɪᴇ-ᴍᴅ⚡
-🧚‍♀️◦ *ᴄʀᴇᴀᴛᴏʀ* : ꜱᴀʜᴀꜱ ᴛᴇᴄʜ⚡
-🧚‍♀️◦ *ᴏᴡɴᴇʀ* : ꜱᴀʜᴀꜱ ɴᴇᴛʜꜱᴀʀᴀ⚡ 
-🧚‍♀️◦ *ᴠᴇʀsɪᴏɴs* : 1.0.0 (ᴀᴅᴅᴇᴅ ʜɪᴅᴅᴇɴ ғᴇᴀᴜᴛᴜʀᴇs)⚡
-
-> ɪ ᴀᴍ ᴀɴ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ꜱʏꜱᴛᴇᴍ *(ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ)* ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴛᴏ ᴅᴏ ꜱᴏᴍᴇᴛʜɪɴɢ, ꜱᴇᴀʀᴄʜ ᴀɴᴅ ɢᴇᴛ ᴅᴀᴛᴀ / ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴏɴʟʏ ᴛʜʀᴏᴜɢʜ *ᴡʜᴀᴛꜱᴀᴘᴘ.🪀*
-
-> ʙᴇғᴏʀᴇ ɢᴏɪɴɢ ᴛᴏ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴍᴇɴᴜ, ᴘʟᴇᴀsᴇ ʀᴇᴀᴅ ᴛʜᴇ ʀᴜʟᴇs ғᴏʀ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ*
-
-*😼𝟷. sᴘᴀᴍ ʙᴏᴛs ᴀʀᴇ ᴘʀᴏʜɪʙɪᴛᴇᴅ.⚡*
-*😼𝟸. ᴄᴀʟʟɪɴɢ ʙᴏᴛs ɪs ᴘʀᴏʜɪʙɪᴛᴇᴅ.⚡*
-*😼𝟹. ᴄᴀʟʟɪɴɢ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ ɪs ᴘʀᴏʜɪʙɪᴛᴇᴅ.⚡*
-*😼𝟺. sᴘᴀᴍ ᴛᴏ ɴᴏ ᴏᴡɴᴇʀ ɪs ᴘʀᴏʜɪʙɪᴛᴇᴅ.⚡*
+*💻✅ VIP BOT WATS APP QUEEN-KYLIE-MD*
 
 *🪄𝕋𝕪𝕡𝕖 .𝕞𝕖𝕟𝕦 𝕋𝕠 𝔾𝕖𝕥 𝔹𝕠𝕥 𝕌𝕤𝕖𝕣 𝕄𝕖𝕟𝕦💗*
 
