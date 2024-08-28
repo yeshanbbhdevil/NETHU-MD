@@ -10,21 +10,22 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let des = `*👋 HELLO I'm QUEEN-NETHU-MD I'm Alive Now 🍂✨*
+let des = `👋 𝙷𝚎𝚕𝚕𝚘 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*🧑‍💻 Owner* - NETHMIKA KAUSHALYA
+*👾 Im QUEEN-NETHU-MD whatsapp bot*
 
-*📋 Owner Number* - 94704227534
+| Version: 1.0.0
+| Memory: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+| Runtime: ${runtime(process.uptime())}    
+| HostName:- ${os.hostname()}
 
-*📃 Tipe .menu To Get menu list*
-
-*➤ SUBSCRIBE MY YOUTUBE CHANNEL*
-
-🔗◦ https://www.youtube.com/@SlNethuMax
-
-*➤ FOLLOW MY WHATSAPP CHANNEL*
-
-📎◦ https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A
+🐼This is the result of our teams hard work
+and our technical cybers team owns the bots
+rights and code rights. Therefore, you have no
+chance to change and submit our bot under
+any circumstances And 500 Commands And
+logo, thumbnail,banner Maker Commands Al
+Chatbot feathers On Our Bot
 
 *🍭Have A Nice Day🍭*
 
