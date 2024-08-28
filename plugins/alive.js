@@ -17,7 +17,6 @@ let des = `👋 𝙷𝚎𝚕𝚕𝚘 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
 | Version: 1.0.0
 | Memory: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-| Uptime: ${runtime(process.uptime())}
 | HostName: ${os.hostname()}
 
 🐼This is the result of our teams hard work
