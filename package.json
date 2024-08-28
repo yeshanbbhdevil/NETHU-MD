@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot created by nethu max",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHADOW-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name QUEEN-NETHU-MD",
     "stop": "pm2 stop QUEEN-NETHU-MD",
     "restart": "pm2 restart QUEEN-NETHU-MD"
   },
