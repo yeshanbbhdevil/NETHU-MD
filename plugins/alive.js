@@ -26,6 +26,8 @@ let des = `*👋 HELLO I'm QUEEN-NETHU-MD I'm Alive Now 🍂✨*
 
 📎◦ https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A
 
+*🍭Have A Nice Day🍭*
+
 *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx*`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
