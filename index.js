@@ -140,10 +140,6 @@ if(sender Number.includes("94704227534")){
 if(isReact) return
 m.react("👨‍💻")
 }
-
-if(sender Number.includes("94787072548")){ 
-if(isReact) return
-m.react("")       
 //=====================================
         
 //===================================work-type========================================= 
