@@ -6,7 +6,7 @@ cmd({
     pattern: "song",
     desc: "download songs",
     category: "download",
-    react: "🎧",
+    react: "🎵",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -16,7 +16,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `*🤖QUEEN-NETHU-MD SONG DOWNLOADER ✨*
+let desc = `*🧚‍♂️QUEEN-NETHU-MD SONG DOWNLOADER ✨*
 
 🎼⚙️ TITLE - ${data.title}
 
@@ -61,7 +61,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `*🤖QUEEN-NETHU-MD VIDEO DOWNLOADER ✨*
+let des = `*🧚‍♂️QUEEN-NETHU-MD VIDEO DOWNLOADER ✨*
 
 📽️⚙️ TITLE - ${data.title}
 
