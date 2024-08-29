@@ -11,7 +11,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*🧚‍♂️QUEEN-NETHU-MD DOWNLOADER ✨*";
+const yourName = "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx*";
 
 
 
@@ -127,7 +127,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
         if (!q && !q.startsWith("https://")) return reply("give me mediafire url")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/mediafiredl?url=${q}`)
-        reply("*Downloading...*")
+        reply("*Uploading...*")
         await conn.sendMessage(from, { document: { url: data.data.link_1 }, fileName: data.data.name, mimetype: data.data.file_type, caption: `${data.data.name}\n\n${yourName}` }, { quoted: mek })                                                                                                                 
     } catch (e) {
         console.log(e)
