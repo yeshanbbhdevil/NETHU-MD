@@ -20,7 +20,7 @@ let dec = `*🧚‍♂️ NETHI MD Whatsapp Bot*
 
 ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
-await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/2e95d1e64336fd59b4017.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/9420d31d752ae858163cd.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
