@@ -13,7 +13,12 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*👾 Im QUEEN-NETHU-MD whatsapp bot*
+*👾 Im QUEEN-NETHU-MD Whatsapp Bot*
+
+| *Version*: 1.0.0
+| *Memory*: 38.09MB/7930MB
+| *Runtime*: 1 minute,25 seconds
+| *Platform*: railway 
 
 🐼This is the result of our teams hard work
 and our technical cybers team owns the bots
