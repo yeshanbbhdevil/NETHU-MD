@@ -20,7 +20,7 @@ let dec = `*🧚‍♂️ NETHU MD Repastitory Information*
 
 
 *📡 REPO LINK*
-🔗◦https://github.com/Nethmikakaushalyaherath/QUEEN-NETHU-MD/tree/main
+🔗◦https://github.com/Nethmikakaushalyaherath/NETHU-MD
 
 *📌 SUBSCRIBE MY YOUTUBE CHANNEL*
 🔗◦ https://www.youtube.com/@SlNethuMax
