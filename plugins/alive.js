@@ -13,7 +13,18 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*👾 Im QUEEN-NETHU-MD whatsapp bot*
+*👾 Im QUEEN-NETHU-MD whatsapp bot*`
+
+let status =` 
+
+    | Uptime:-  ${runtime(process.uptime())}
+    | Ram usage:- ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+    | HostName:- ${os.hostname()}*
+    | Owner :- Nethu Max
+    | Version: 1.0.0`
+
+
+let des =` 
 
 🐼This is the result of our teams hard work
 and our technical cybers team owns the bots
