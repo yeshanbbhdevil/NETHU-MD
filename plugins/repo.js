@@ -11,25 +11,19 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*🧚‍♂️ 𝐐𝐔𝐄𝐄𝐍 𝐍𝐄𝐓𝐇𝐔 𝐌𝐃 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧*
+let dec = `*🧚‍♂️ NETHU MD Repastitory Information*
 
-*🤖 ɴᴀᴍᴇ: Qᴜᴇᴇɴ-ɴᴇᴛʜᴜ-ᴍᴅ*
-*🧑‍💻 ᴏᴡɴᴇʀ: ɴᴇᴛʜᴍɪᴋᴀ ᴋᴀᴜꜱʜᴀʟʏᴀ (ꜱʟ ɴᴇᴛʜᴜ ᴍᴀx)*
-*🧬 ᴠᴇʀꜱɪᴏɴ: 1.0.0*
+*| ɴᴀᴍᴇ*: ɴᴇᴛʜᴜ-ᴍᴅ
+*| ᴏᴡɴᴇʀ*: ɴᴇᴛʜᴍɪᴋᴀ ᴋᴀᴜꜱʜᴀʟʏᴀ (ꜱʟ ɴᴇᴛʜᴜ ᴍᴀx)
+*| ɴᴜᴍʙᴇʀ*: 94704227534
+*| ᴠᴇʀꜱɪᴏɴ*: 1.0.0
 
 
 *📡 REPO LINK*
-
 🔗◦https://github.com/Nethmikakaushalyaherath/QUEEN-NETHU-MD/tree/main
 
 *📌 SUBSCRIBE MY YOUTUBE CHANNEL*
-
 🔗◦ https://www.youtube.com/@SlNethuMax
-
-*➤ FOLLOW MY WHATSAPP CHANNEL*
-
-🔗◦ https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A
-
 
 *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx*
 `
