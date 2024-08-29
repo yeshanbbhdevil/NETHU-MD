@@ -13,7 +13,7 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*👾 Im QUEEN-NETHU-MD Whatsapp Bot*
+*👾 Im NETHU-MD Whatsapp Bot*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
@@ -30,7 +30,7 @@ Chatbot feathers On Our Bot
 
 *🍭Have A Nice Day🍭*
 
-*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx*`
+ ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
