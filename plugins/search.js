@@ -1,7 +1,7 @@
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "list",
+    pattern: "menu",
     desc: "search the bot",
     category: "main",
     react: "📃",
@@ -66,11 +66,11 @@ let dec = `*NETHU MD COMMAND*
 *🗃️Command : settings*
 *💨Desc : how to settings edit bot*
 *💆🏻‍♂️use : .settings*
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱʜᴀᴅᴏᴡ-ᴍᴅ*
+ ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 *╰───────────⚬➨*
 
 `
-const url = 'https://github.com/vipshadowmd/Voice/raw/main/SHADOW%20MD%20MENU.mp3'
+const url = 'https://telegra.ph/file/6d986fa37cb22f8e6717a.jpg'
 let { data } = await axios.get(url)
 for (vr in data){
 if((new RegExp(\\b${vr}\\b,'gi')).test(body)) 
