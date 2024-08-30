@@ -13,22 +13,18 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*👾 Im NETHU-MD Whatsapp Bot*
+*Im NETHU-MD Whatsapp Bot Create By Nethu Max 🍂✨*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 | *Runtime*: 1 minute,25 seconds
-| *Platform*: railway 
+| *Platform*: Replit 
 
-🐼This is the result of our teams hard work
-and our technical cybers team owns the bots
-rights and code rights.Therefore you have no
-chance to change and submit our bot under
-any circumstances And 250 Commands And
-logo, thumbnail,banner Maker Commands Al
-Chatbot feathers On Our Bot
+I am nethu md whatsapp bot. How can I help you.
+To get the menu, type as menu. If you need to know something about the bot,
+type as owner and direct the question to me. Good day.
 
-*🍭Have A Nice Day🍭*
+*ꜱʟ°᭄🇱🇰™️𝙳𝙰𝚁𝙺 𝙲𝚈𝙱𝙴𝚁*
 
  ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
