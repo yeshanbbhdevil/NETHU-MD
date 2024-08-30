@@ -140,10 +140,6 @@ if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //====================react============================
-if(senderNumber.includes("94767910958")){
-if(isReact) return
-m.react("👨‍💻")
-}
         
 if (config.AUTO_VOICE === 'true') {
 const url = 'https://raw.githubusercontent.com/DarkYasiyaofc/VOICE/main/Voice-Raw/FROZEN-V2'
