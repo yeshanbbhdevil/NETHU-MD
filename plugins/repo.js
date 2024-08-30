@@ -25,7 +25,7 @@ let dec = `*🧚‍♂️ NETHU MD Repastitory Information*
 *📌 SUBSCRIBE MY YOUTUBE CHANNEL*
 🔗◦ https://www.youtube.com/@SlNethuMax
 
-*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx*
+©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/9420d31d752ae858163cd.jpg`},caption:dec},{quoted:mek});
 
