@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `NETHU-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/8f0d6b5f0f741277f4ef8.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/6d986fa37cb22f8e6717a.jpg` }, caption: up })
 
 }
 })
