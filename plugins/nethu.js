@@ -2,7 +2,7 @@ const {cmd , commands} = require('../command')
 
 cmd({
     pattern: "nethumain",
-    desc: "shadow the bot",
+    desc: "nethu md the bot",
     category: "main",
     react: "💦",
     filename: __filename
