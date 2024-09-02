@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 image: buffer,
                 caption: `
-            🌟 *-------「 Image ${i + 1} from your search! 」-------* 🌟
+            🌟 *-------「 NETHU MD Image ${i + 1} from your search! 」-------* 🌟
 
  ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
