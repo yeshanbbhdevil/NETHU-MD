@@ -27,7 +27,7 @@ let dec = `*🧚‍♂️ NETHU MD Repastitory Information*
 
 ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
-await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/9420d31d752ae858163cd.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/7f0d7a04a30a602307e3d.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
