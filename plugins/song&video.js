@@ -16,17 +16,17 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `*🧚‍♂️ NETHU-MD SONG DOWNLOADER ✨*
+let desc = `*◆ NETHU-MD SONG DOWNLOADER ◆*
 
-🎼⚙️ TITLE - ${data.title}
+| ➤ TITLE - ${data.title}
 
-🎼⚙️ VIEWS - ${data.views}
+| ➤ VIEWS - ${data.views}
 
-🎼⚙️ DESCRIPTION - ${data.description}
+| ➤ DESCRIPTION - ${data.description}
 
-🎼⚙️ TIME - ${data.timestamp}
+| ➤ TIME - ${data.timestamp}
 
-🎼⚙️ AGO - ${data.ago}
+|➤ AGO - ${data.ago}
 
  ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
@@ -61,17 +61,17 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `*🧚‍♂️ NETHU-MD VIDEO DOWNLOADER ✨*
+let des = `*◆ NETHU-MD VIDEO DOWNLOADER ◆*
 
-📽️⚙️ TITLE - ${data.title}
+| ➤ TITLE - ${data.title}
 
-📽️⚙️ VIEWS - ${data.views}
+| ➤ VIEWS - ${data.views}
 
-📽️⚙️ DESCRIPTION - ${data.description}
+| ➤ DESCRIPTION - ${data.description}
 
-📽️⚙️ TIME - ${data.timestamp}
+| ➤ TIME - ${data.timestamp}
 
-📽️⚙️ AGO - ${data.ago}
+| ➤ AGO - ${data.ago}
 
 ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
 `
