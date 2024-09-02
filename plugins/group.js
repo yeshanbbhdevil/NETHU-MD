@@ -5,7 +5,7 @@ cmd({
     pattern: "promote",
     desc: "Promote a member to admin.",
     category: "group",
-    react: "✅",
+    react: "🔼",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -29,7 +29,7 @@ cmd({
     pattern: "demote",
     desc: "Demote an admin to member.",
     category: "group",
-    react: "❎",
+    react: "🔽",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -100,7 +100,7 @@ cmd({
     pattern: "setgoodbye",
     desc: "Set the goodbye message for the group.",
     category: "group",
-    react: "🫡",
+    react: "👋",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -124,7 +124,7 @@ cmd({
     pattern: "setwelcome",
     desc: "Set the welcome message for the group.",
     category: "group",
-    react: "☺️",
+    react: "👋",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -148,7 +148,7 @@ cmd({
     pattern: "getpic",
     desc: "Get the group profile picture.",
     category: "group",
-    react: "🏞️",
+    react: "🖼️",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
