@@ -18,7 +18,7 @@ let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 | *Runtime*: 1 minute,25 seconds
-| *Platform*: Replit 
+| *Owner*: Nethmika
 
 I am nethu md whatsapp bot. How can I help you.
 To get the menu, type as menu. If you need to know something about the bot,
